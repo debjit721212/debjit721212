@@ -7,6 +7,7 @@
   📫 <a href="mailto:debjit721212@gmail.com">debjit721212@gmail.com</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/debjit-adak-b06416211" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
   🧠 <a href="https://github.com/debjit721212" target="_blank">GitHub</a>
+  🌐 <a href="https://debjitadak.netlify.app" target="_blank">Website</a>
 </p>
 
 ---
